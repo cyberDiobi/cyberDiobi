@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @cyberDiobi
-- 👀 I’m interested in cybersec, siem, soc,graphicsdesign, copywriting
-- 🌱 I’m cybersecurityAnalyst | copywriter |designer
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me @OfficialDiobi ( https://x.com/OfficialDiobi )
+your multiskill guy
 
 
 <!---
